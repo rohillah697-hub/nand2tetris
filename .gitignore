@@ -1,0 +1,5 @@
+tests/asm/Add.hack
+tests/asm/Max.hack
+tests/asm/Rect.hack
+tests/asm/Pong.hack
+__pycache__/
